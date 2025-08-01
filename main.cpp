@@ -9,7 +9,7 @@ public:
     string author;
 
     void input() {
-        cout << "Book ID: ";
+        cout << "xxxxxxxxxxxxxxxxxxBook ID: ";
         cin >> id;
         cin.ignore();
         cout << "Title: ";
